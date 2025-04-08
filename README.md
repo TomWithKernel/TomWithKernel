@@ -11,7 +11,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-### Hi there 👋, I'm Tom.  <a href="https://tomwithkernel.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+### Hi there 👋, I'm Tom.  <a href="https://tomwithkernel.github.io/"><img src="https://img.shields.io/badge/GitHubPages-博客-8c36db" /></a>&emsp;
 - 🚀 I use daily:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
