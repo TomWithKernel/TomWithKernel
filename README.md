@@ -18,8 +18,8 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
 
 - 💻 I work using:
 ![deepin](https://img.shields.io/badge/-deepin-blue?logo=deepin)
@@ -31,7 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
 
 - ⚙️ I also use and work:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
