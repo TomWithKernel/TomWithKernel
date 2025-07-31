@@ -12,6 +12,22 @@
   <div>&nbsp;</div>
 
 ### Hi there 👋, I'm Tom.  <a href="https://tomwithkernel.github.io/"><img src="https://img.shields.io/badge/GitHubPages-博客-8c36db" /></a>&emsp;
+
+## 🔧 Linux Kernel Crash Analysis Tools
+
+This repository now includes tools for analyzing Linux kernel crash dumps (vmcore) and kernel images (vmlinux). Perfect for debugging kernel panics and system crashes!
+
+### Quick Start
+```bash
+# Basic analysis
+cd kernel-analysis
+python3 analyze_crash.py --vmcore /path/to/vmcore --vmlinux /path/to/vmlinux
+
+# Quick file info
+python3 analyze_crash.py --quick-info --vmcore /path/to/vmcore
+```
+
+👉 **[Full Documentation](./kernel-analysis/README.md)**
 - 🚀 I use daily:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
